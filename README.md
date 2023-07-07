@@ -16,7 +16,7 @@ Java ile metin tabanlı bir macera oyununu içerir.
 
 ![Zırhlar](https://github.com/irem-yigit/AdventureGame/assets/51033713/bbb1b422-bde8-4906-aa63-9da25231a021)
 
-*Mekanlar
+-- Mekanlar
 - Güvenli Ev
    - Özellik: Can yenileniyor.
 - Mağara

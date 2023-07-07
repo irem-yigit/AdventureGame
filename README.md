@@ -17,21 +17,21 @@ Java ile metin tabanlı bir macera oyununu içerir.
 ![Zırhlar](https://github.com/irem-yigit/AdventureGame/assets/51033713/bbb1b422-bde8-4906-aa63-9da25231a021)
 
 Mekanlar
---> Güvenli Ev
+- Güvenli Ev
    - Özellik: Can yenileniyor.
---> Mağara
+- Mağara
    - Canavar: Zombi (1-3 Adet)
    - Özellik: Savaş + Ganimet
    - Eşya: Yemek(Food)
---> Orman
+- Orman
    - Canavar: Vampir (1-3 Adet)
    - Özellik: Savaş + Ganimet
    - Eşya: Odun(FireWood)
---> Nehir
+- Nehir
    - Canavar: Ayı (1-3 Adet)
    - Özellik: Savaş + Ganimet
    - Eşya: Su(Water)
---> Mağaza
+- Mağaza
    - Özellik: Destekleyici Eşyalar Satın Almak
    - Silah: Tabanca, Kılıç, Tüfek
    - Zırh: Hafif, Orta, Ağır
